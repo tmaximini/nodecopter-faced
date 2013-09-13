@@ -1,0 +1,14 @@
+{
+  "name": "nodecopter",
+  "version": "0.0.0",
+  "description": "nodecopter bday bash",
+  "main": "drone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "ar-drone": "~0.2.0"
+  }
+}
